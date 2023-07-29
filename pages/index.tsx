@@ -31,13 +31,10 @@ const Home: NextPage = () => {
               <div className={styles.sectionContainer}>
                 <h2 className={styles.sectionTitle}>_</h2>
                 <h2 className={styles.sectionTitle}></h2>
-                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp</p>
-                 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp</p>
-                 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp</p>
-                 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp</p>
-                 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp</p>
-                 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp</p>
-                 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp</p>
+               
+                p {
+padding-bottom: 20px;
+}
               <h2 className={styles.sectionTitle}>Blockchain, the backbone of Digital Ownership</h2>
               <p className={styles.sectionDescription}>Blockchain is a technology that provides a growing list of data structures, called blocks, connected and secured by cryptography. It is the fundamental technology that powers this marketplace and ensures secure ownership of digital assets.</p>
               </div>
