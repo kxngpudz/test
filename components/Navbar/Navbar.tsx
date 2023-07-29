@@ -25,13 +25,13 @@ export function Navbar() {
 
           <div className={styles.navMiddle}>
             <Link href="/buy" className={styles.link}>
-              Buy
+           IP showcase
             </Link>
+              {  /**
             <Link href="/sell" className={styles.link}>
-              Sell
-            </Link>
+              List
+            </Link>*/}
           </div>
-        </div>
 
         <div className={styles.navRight}>
           <div className={styles.navConnect}>
