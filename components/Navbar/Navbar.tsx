@@ -32,6 +32,7 @@ export function Navbar() {
               List
             </Link>*/}
           </div>
+          </div>
 
         <div className={styles.navRight}>
           <div className={styles.navConnect}>
