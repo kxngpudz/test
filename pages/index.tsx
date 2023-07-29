@@ -7,10 +7,7 @@ import styles from "../styles/Home.module.css";
  * Landing page with a simple gradient background and a hero asset.
  * Free to customize as you see fit.
  */
-import type { NextPage } from "next";
-import Link from "next/link";
-import Image from "next/image";
-import styles from "../styles/Home.module.css";
+
 
 const Home: NextPage = () => {
   return (
